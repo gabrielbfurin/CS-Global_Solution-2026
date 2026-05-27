@@ -1,7 +1,7 @@
 # Mission Control AI — Sistema de Alerta por Lógica Digital (Global Solution 2026)
 
 **Curso:** Ciências da Computação — FIAP  
-**Turma:** 1CCP[#]  
+**Turma:** 1CCPX  
 **Professor responsável:** Lucas Moreira  
 **Repositório:** `gabrielbfurin/CS-Global_Solution-2026`
 
