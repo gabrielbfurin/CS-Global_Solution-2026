@@ -1,9 +1,14 @@
 # Mission Control AI — Sistema de Alerta por Lógica Digital (Global Solution 2026)
 
 **Curso:** Ciências da Computação — FIAP  
-**Turma:** 1CCP[#]  
+**Turma:** 1CCPX  
 **Professor responsável:** Lucas Moreira  
 **Repositório:** `gabrielbfurin/CS-Global_Solution-2026`
+
+**Integrantes:**  
+- Gabriel Barbosa Furin — RM: 572941  
+- Lucas Kiodi Moraca — RM: 571004  
+- Renan Fracalossi Mano da Silva — RM: 569610
 
 > **Resumo:** Este projeto implementa um **sistema de alerta por lógica digital** para monitoramento de uma missão espacial experimental. Condições críticas são representadas por entradas binárias (0/1) e combinadas por uma **expressão booleana** que aciona a saída **X**.
 
@@ -159,7 +164,7 @@ O circuito foi desenvolvido em simulador (Tinkercad) utilizando **circuitos inte
 - Chaves (A, B, C, D, E) para simular sensores/entradas digitais
 - Resistores (recomendado: **pull‑down** nas entradas para estabilizar nível lógico)
 - 1× LED + 1× resistor (ex.: **220 Ω** ou **330 Ω**)
-- Fonte **5 V** e **GND**
+- Arduino utilizado como fonte de alimentação (**5 V** e **GND**)
 
 ### 7.2 Saída X e LED indicador
 O **LED** representa fisicamente a **saída lógica X** do sistema:
@@ -191,11 +196,13 @@ Interpretação operacional:
 ### 7.5 Simulação no Tinkercad
 **Imagem do circuito:**
 
-- [INSERIR IMAGEM DO CIRCUITO NO TINKERCAD AQUI]
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67b329a6-9d95-453d-bf8f-4288960a0723" width="900"/>
+</p>
 
 **Link da simulação no Tinkercad:**
 
-- https://www.tinkercad.com/things/fi1c2fXpnuB-global-solution-cs?sharecode=oegU1HcqJC2j9gUqpoPA9vDDvO43PAzV5fNIrbwan9Y
+- [Visualizar simulação no Tinkercad](https://www.tinkercad.com/things/fi1c2fXpnuB-global-solution-cs?sharecode=oegU1HcqJC2j9gUqpoPA9vDDvO43PAzV5fNIrbwan9Y)
 
 ---
 
@@ -220,3 +227,5 @@ O sistema desenvolvido atende aos requisitos do desafio ao:
 - construir a tabela‑verdade completa (32 combinações);
 - implementar o circuito lógico com CIs **74HC** e LED indicador;
 - contextualizar a aplicação dentro da **ODS 8**, destacando eficiência e formação técnica.
+
+O projeto demonstra, na prática, a aplicação de lógica digital no desenvolvimento de sistemas de monitoramento e tomada de decisão para cenários críticos.
