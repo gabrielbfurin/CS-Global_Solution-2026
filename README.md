@@ -183,8 +183,9 @@ Assim:
 > Observação: a variável **B** é considerada na definição do sistema e na tabela-verdade completa, mas não é necessária no circuito após a simplificação (reduzindo hardware e complexidade).
 
 ### 7.4 Evidência de simulação
-- **[INSERIR IMAGEM DO CIRCUITO NO TINKERCAD AQUI]**
-- **[INSERIR LINK DO PROJETO/SHARE DO TINKERCAD AQUI]**
+- <img width="1919" height="912" alt="Captura de tela 2026-05-27 151921" src="https://github.com/user-attachments/assets/83705aed-ae38-414d-9339-cefc0f4a363a" />
+
+- **(https://www.tinkercad.com/things/fi1c2fXpnub-global-soluction-cs?sharecode=oegU1HcqJC2j9gUqpoPA9vDDvO43PAzV5fNIrbwan9Y)**
 
 ---
 
