@@ -202,7 +202,7 @@ Interpretação operacional:
 
 **Link da simulação no Tinkercad:**
 
-- [Visualizar simulação no Tinkercad]([https://www.tinkercad.com/things/fi1c2fXpnuB-global-solution-cs?sharecode=oegU1HcqJC2j9gUqpoPA9vDDvO43PAzV5fNIrbwan9Y](https://www.tinkercad.com/things/fi1c2fXpnub-global-soluction-cs?sharecode=oegU1HcqJC2j9gUqpoPA9vDDvO43PAzV5fNIrbwan9Y))
+- [Visualizar simulação no Tinkercad](https://www.tinkercad.com/things/fi1c2fXpnub-global-soluction-cs?sharecode=oegU1HcqJC2j9gUqpoPA9vDDvO43PAzV5fNIrbwan9Y)
 
 ---
 
